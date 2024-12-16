@@ -1,0 +1,10 @@
+node_modules/
+/test-results/
+/tests-examples/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+package-lock.json
+.vscode/
+/.prettierignore
+/.prettierrc
